@@ -11,7 +11,7 @@ This project is a web-based application that utilizes parametric equations devel
 
 ## Authors
 
-The Primary Stress Profile Web-Based Application was developed by Sai Kumar Konidena.
+The Primary Stress Profile Web-Based Application was developed by SAI TEJA POTU
 
 ## Acknowledgments
 
